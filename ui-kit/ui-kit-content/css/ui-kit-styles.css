@@ -860,7 +860,7 @@ body .colapsed-menu::-webkit-scrollbar {
   display: none;
 }
 /**
- * Content 7 stylesheet  
+ * Content 7 stylesheet
  * */
 .content-7 {
   padding-top: 125px;
@@ -997,7 +997,7 @@ body .colapsed-menu::-webkit-scrollbar {
   max-height: 100%;
 }
 /**
- * Content 8 stylesheet  
+ * Content 8 stylesheet
  * */
 .content-8 {
   padding-top: 130px;
@@ -1092,7 +1092,7 @@ body .colapsed-menu::-webkit-scrollbar {
   }
 }
 /**
- * Content 11 stylesheet  
+ * Content 11 stylesheet
  * */
 .content-11 {
   position: relative;
@@ -1134,7 +1134,7 @@ body .colapsed-menu::-webkit-scrollbar {
   }
 }
 /**
- * Content 13 stylesheet  
+ * Content 13 stylesheet
  * */
 .content-13 {
   position: relative;
@@ -1460,7 +1460,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .demo p {
   font-size: 20px;
   font-weight: normal;
-  color: #7e7e7e;
+  color: black;
   letter-spacing: -0.2px;
   line-height: 30.999999999999996px;
   margin-bottom: 45px;
