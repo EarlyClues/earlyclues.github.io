@@ -810,7 +810,6 @@ section * {
   color: white;
 }
 body {
-  padding-top: 66px;
   position: relative;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -886,7 +885,7 @@ body .colapsed-menu::-webkit-scrollbar {
   display: none;
 }
 /**
- * Price 1 stylesheet  
+ * Price 1 stylesheet
  * */
 .price-1 {
   padding-top: 110px;
